@@ -4,4 +4,4 @@
 
 ***Demo Results***
 <p align="center">
-    <img src="https://github.com/dvskabangira/Skeleton", width="540">
+    <img src="https://github.com/dvskabangira/", width="540">
