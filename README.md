@@ -4,4 +4,4 @@
 
 ***Demo Results***
 <p align="center">
-    <img src="file:///home/codetech/Pictures/Screenshots/prediction_output.png", width="540">
+    <img src="https://github.com/dvskabangira/CodeAlpha_Object-detect-track/blob/main/prediction_output.png", width="540">
