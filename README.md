@@ -4,4 +4,4 @@
 
 ***Demo Results***
 <p align="center">
-    <img src="https://github.com/dvskabangira/", width="540">
+    <img src="file:///home/codetech/Pictures/Screenshots/prediction_output.png", width="540">
